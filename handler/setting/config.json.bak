@@ -1,16 +1,16 @@
 {
-    "packName": "ⲂⲟⲦz ʀɪᴍᴜʀᴜ࿐",
+    "packName": "HULL BOT",
     "reason": "Sedang Sibuk",
-    "authName": "Create By  @ⲂⲟⲦz ʀɪᴍᴜʀᴜ࿐",
+    "authName": "Create By  @ⲂⲟⲦz Hullz",
     "handler": "./index.js",
     "session": "./rimuru/session/session.json",
-    "numberNon": "6282277669861",
-    "botNumberNon": "6285221604446",
+    "numberNon": "6289667090665",
+    "botNumberNon": "12134211080",
     "ownerNumber": [
-        "6282277669861@s.whatsapp.net",
-        "6285222604446@s.whatsapp.net"
+        "6289667090665@s.whatsapp.net",
+        "6289667090665@s.whatsapp.net"
     ],
-   "ownerTunggal": "6282277669861@s.whatsapp.net",
+   "ownerTunggal": "6289667090665@s.whatsapp.net",
    "style" : {
    "satu":"•",
    "dua":"⎙"
@@ -28,7 +28,7 @@
    "baileys" : "v 3.5.2"
    }
      },
-   "ownernama": "Rimuru Tempest",
+   "ownernama": "Arif",
    "revokedd": "6285221604446-1629287518@g.us",
    "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
      }
