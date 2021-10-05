@@ -1,6 +1,6 @@
 {
 	"gamewaktu": 70,
-	"limitCount": 10, 
+	"limitCount": 999, 
 	"limitCountb": 3,
 	"gcount": {
 		"prem": 100,
